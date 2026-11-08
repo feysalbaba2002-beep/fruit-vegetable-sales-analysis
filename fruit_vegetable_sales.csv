@@ -1,0 +1,17 @@
+Product,Category,Units_Sold,Unit_Price,Total_Sales,Month
+Apple,Fruit,120,2,240,January
+Banana,Fruit,150,1,150,January
+Carrot,Vegetable,100,3,300,January
+Tomato,Vegetable,90,4,360,January
+Orange,Fruit,130,2,260,February
+Potato,Vegetable,200,2,400,February
+Mango,Fruit,80,5,400,February
+Onion,Vegetable,110,2,220,February
+Grapes,Fruit,70,6,420,March
+Cabbage,Vegetable,95,3,285,March
+Pineapple,Fruit,60,7,420,March
+Spinach,Vegetable,85,2,170,March
+Watermelon,Fruit,50,8,400,April
+Broccoli,Vegetable,75,4,300,April
+Lemon,Fruit,140,1,140,April
+Cucumber,Vegetable,105,3,315,April
